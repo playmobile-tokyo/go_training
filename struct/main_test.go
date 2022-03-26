@@ -13,12 +13,12 @@ func Test_display(t *testing.T) {
 	}{
 		// TODO: Add test cases.
 		{
-			name: "ok",
+			name: "test ok",
 			args: args{msg: "string"},
 			want: "[string]",
 		},
 		{
-			name: "ng",
+			name: "test ng",
 			args: args{msg: "string"},
 			want: "string",
 		},
