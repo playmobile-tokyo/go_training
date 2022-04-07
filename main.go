@@ -3,5 +3,7 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Print("aa")
+	fmt.Print("abcdef")
+
+	fmt.Print("ghi")
 }
